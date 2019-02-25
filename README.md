@@ -9,6 +9,11 @@
 * use clickable ImageViews for the player to select their next move. 
 * Display the game result, both what the game chose as it's move and the game result win, lose, or draw. 
 * you can use [property animations](https://developer.android.com/training/animation/overview) to make the game more interactive. 
+* **COMMENTS**
+	* You must have a header comment with your name and the date in every file that you modify
+	* Any methods that are not obvious must have comments
+	* identifier names, variables, classes, functions, must be descriptive and meaningful
+	* Any method that is more than 15 lines long must have comments (hint, if you make your methods shorter you don't need comments)
 
 
 You can use ObjectAnimator to animate any View property that there is a setter for. In this example ```player``` and ```game``` are instances of ImageView and their rotation is being animated. An animation set is being used so that the two animations can be run concurently. An interpolator is being used to give add a windup and overshoot effect to the animation. 
