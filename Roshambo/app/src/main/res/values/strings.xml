@@ -8,4 +8,7 @@
     <string name="scissors_button_description">Scissors Button</string>
     <string name="player_result_description">Player Result</string>
     <string name="computer_result_description">Computer Result</string>
+    <string name="computer_rock">rock</string>
+    <string name="computer_paper">paper</string>
+    <string name="computer_scissors">scissors</string>
 </resources>
