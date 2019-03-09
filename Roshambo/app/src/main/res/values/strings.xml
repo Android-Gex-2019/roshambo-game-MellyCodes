@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Roshambo</string>
+    <string name="win">You WIN!</string>
+    <string name="lose">You LOSE!</string>
+    <string name="draw">DRAW!</string>
+    <string name="rock_button_description">Rock Button</string>
+    <string name="paper_button_description">Paper Button</string>
+    <string name="scissors_button_description">Scissors Button</string>
+    <string name="player_result_description">Player Result</string>
+    <string name="computer_result_description">Computer Result</string>
+</resources>
